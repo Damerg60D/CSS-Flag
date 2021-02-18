@@ -1,0 +1,19 @@
+
+
+.austria-Flag-Red-Top {
+    background-color: red;
+    position: top;
+    height: 200px;
+}
+
+.Austria-Flag-White {
+    background-color: white;
+    position: middle;
+    height: 200px;
+}
+
+.Austria-Flag-Red-Bottom {
+    background-color: red;
+    position: bottom;
+    height: 200px;
+}
